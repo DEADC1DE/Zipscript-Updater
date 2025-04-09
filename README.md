@@ -1,0 +1,1 @@
+Simple Zipscript updater sh
